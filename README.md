@@ -1,0 +1,1 @@
+A personal diary where users must enter their username and the correct password to access. Can add, delete, view, and edit records as well as changing their passwords. Keeps track of names, location, time, and their notes/entry.
